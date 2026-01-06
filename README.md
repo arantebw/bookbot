@@ -1,6 +1,6 @@
 # bookbot
 
-Reads a book in TXT format, then count the words and letters.
+BookBot is my first [Boot.dev](https://www.boot.dev) project!
 
 ## Features
 
